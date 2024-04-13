@@ -1,4 +1,4 @@
-package main.java.com.ege.springdatajpaproject2.book;
+package com.ege.springdatajpaproject2.book;
 
 public class BookController {
     
