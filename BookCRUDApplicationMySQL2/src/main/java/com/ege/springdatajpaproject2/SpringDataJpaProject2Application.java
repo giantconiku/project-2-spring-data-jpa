@@ -1,13 +1,13 @@
-package com.ege.springdatajpamysql;
+package com.ege.springdatajpaproject2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringDataJpaMysqlApplication {
+public class SpringDataJpaProject2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringDataJpaMysqlApplication.class, args);
+		SpringApplication.run(SpringDataJpaProject2Application.class, args);
 	}
 
 }

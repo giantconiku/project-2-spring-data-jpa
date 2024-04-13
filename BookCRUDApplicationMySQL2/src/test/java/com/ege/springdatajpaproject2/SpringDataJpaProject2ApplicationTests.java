@@ -1,10 +1,10 @@
-package com.ege.springdatajpamysql;
+package com.ege.springdatajpaproject2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringDataJpaMysqlApplicationTests {
+class SpringDataJpaProject2ApplicationTests {
 
 	@Test
 	void contextLoads() {
