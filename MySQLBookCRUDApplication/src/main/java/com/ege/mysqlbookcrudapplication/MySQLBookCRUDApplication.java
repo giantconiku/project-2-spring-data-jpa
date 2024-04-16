@@ -1,13 +1,13 @@
-package com.ege.springdatajpaproject2;
+package com.ege.mysqlbookcrudapplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringDataJpaProject2Application {
+public class MySQLBookCRUDApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringDataJpaProject2Application.class, args);
+		SpringApplication.run(MySQLBookCRUDApplication.class, args);
 	}
 
 }
