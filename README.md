@@ -24,7 +24,7 @@ Add new Book
 
 http://localhost:8080/api/books
 
-![Add New Book](SpringDataJPAMySQLBookCRUDApplication/img/add.png "Add New Book")
+![Add New Book](MySQLBookCRUDApplication/img/add.png "Add New Book")
 
 Get All Books
 
@@ -32,7 +32,7 @@ Get All Books
 
 http://localhost:8080/api/books
 
-![Get All Books](SpringDataJPAMySQLBookCRUDApplication/img/findAll.png "Get All Books")
+![Get All Books](MySQLBookCRUDApplication/img/findAll.png "Get All Books")
 
 Get Book By Id
 
@@ -40,7 +40,7 @@ Get Book By Id
 
 http://localhost:8080/api/books/{id}
 
-![Get Book By Id](SpringDataJPAMySQLBookCRUDApplication/img/findById.png "Get Book By Id")
+![Get Book By Id](MySQLBookCRUDApplication/img/findById.png "Get Book By Id")
 
 Get Book By Title
 
@@ -48,7 +48,7 @@ Get Book By Title
 
 http://localhost:8080/api/books?title=title
 
-![Get Book By Title](SpringDataJPAMySQLBookCRUDApplication/img/findByTitle.png "Get Book By Title")
+![Get Book By Title](MySQLBookCRUDApplication/img/findByTitle.png "Get Book By Title")
 
 Edit Book
 
@@ -56,7 +56,7 @@ Edit Book
 
 http://localhost:8080/api/books/{id}
 
-![Edit Book](SpringDataJPAMySQLBookCRUDApplication/img/edit.png "Edit Book")
+![Edit Book](MySQLBookCRUDApplication/img/edit.png "Edit Book")
 
 Delete Book By Id
 
@@ -64,7 +64,7 @@ Delete Book By Id
 
 http://localhost:8080/api/books/{id}
 
-![Delete Book By Id](SpringDataJPAMySQLBookCRUDApplication/img/deleteById.png "Delete Book By Id")
+![Delete Book By Id](MySQLBookCRUDApplication/img/deleteById.png "Delete Book By Id")
 
 Delete All Books
 
@@ -72,5 +72,5 @@ Delete All Books
 
 http://localhost:8080/api/books
 
-![Delete All Books](SpringDataJPAMySQLBookCRUDApplication/img/deleteAll.png "Delete All Books")
+![Delete All Books](MySQLBookCRUDApplication/img/deleteAll.png "Delete All Books")
 
